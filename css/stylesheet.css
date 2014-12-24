@@ -3,9 +3,9 @@ body {
   
 }
 h2 {
-  font: Open Sans;
+  font: Open Sans Light;
+  color: White;
 }
 #center {
   text-align: center
-  
 }
